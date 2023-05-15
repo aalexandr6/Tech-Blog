@@ -1,4 +1,4 @@
-## TECH BLOG
+## Tech-blog
 
 ## Project Description
 
