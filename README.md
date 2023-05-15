@@ -1,4 +1,4 @@
-## Tech-blog
+## Tech-blog (MVC)
 
 ## Project Description
 
